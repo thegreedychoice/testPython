@@ -118,7 +118,7 @@ if __name__ == "__main__":
         elif operation == "5":
             list.printList()
         else:
-            "quit()"
+            quit()
 
 
 
